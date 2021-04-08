@@ -86,3 +86,28 @@ footer{
 .right a{
     margin-left: 1em;
 }
+
+.icons{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search{
+    display: flex;
+    height: 40px;
+    position: relative;
+    bottom: 41px;
+    left: 5px;
+    border-radius: 40px;
+    
+}
+
+.mic{
+    display: flex;
+    height: 40px;
+    position: relative;
+    bottom: 41px;
+    right: -20px;
+    border-radius: 40px;
+}
